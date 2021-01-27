@@ -1,1 +1,1 @@
-# SwiftUI_AppleTutorial
+https://developer.apple.com/tutorials/app-dev-training
