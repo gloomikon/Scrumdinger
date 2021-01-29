@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		774983F425C41C3400BCE76F /* History.swift in Sources */ = {isa = PBXBuildFile; fileRef = 774983F325C41C3400BCE76F /* History.swift */; };
 		77769F8725C1DC110030EB96 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77769F8625C1DC110030EB96 /* EditView.swift */; };
 		77769F8E25C20CA70030EB96 /* MeetingHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77769F8D25C20CA70030EB96 /* MeetingHeaderView.swift */; };
 		77769F9225C2100E0030EB96 /* ScrumProgressViewStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77769F9125C2100E0030EB96 /* ScrumProgressViewStyle.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		774983F325C41C3400BCE76F /* History.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = History.swift; sourceTree = "<group>"; };
 		77769F8625C1DC110030EB96 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		77769F8D25C20CA70030EB96 /* MeetingHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingHeaderView.swift; sourceTree = "<group>"; };
 		77769F9125C2100E0030EB96 /* ScrumProgressViewStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumProgressViewStyle.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				7786AD7725C08D4600D97F5E /* Color+Codable.swift */,
 				77769F9425C211E50030EB96 /* ScrumTimer.swift */,
 				77769F9C25C216440030EB96 /* AVPlayer+Ding.swift */,
+				774983F325C41C3400BCE76F /* History.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 			files = (
 				77C9C03825C08009005A57D2 /* MeetingView.swift in Sources */,
 				7786AD7B25C08EBD00D97F5E /* ScrumsView.swift in Sources */,
+				774983F425C41C3400BCE76F /* History.swift in Sources */,
 				77769F8725C1DC110030EB96 /* EditView.swift in Sources */,
 				77769F9D25C216450030EB96 /* AVPlayer+Ding.swift in Sources */,
 				77769F8E25C20CA70030EB96 /* MeetingHeaderView.swift in Sources */,
