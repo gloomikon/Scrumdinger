@@ -25,6 +25,7 @@
 		77C9C03A25C0800B005A57D2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77C9C03925C0800B005A57D2 /* Assets.xcassets */; };
 		77C9C03D25C0800B005A57D2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77C9C03C25C0800B005A57D2 /* Preview Assets.xcassets */; };
 		77DEF44725C7285D00D8265E /* ScrumData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77DEF44625C7285D00D8265E /* ScrumData.swift */; };
+		77DEF44A25C733E200D8265E /* MeetingTimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77DEF44925C733E200D8265E /* MeetingTimerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		77C9C03C25C0800B005A57D2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		77C9C03E25C0800B005A57D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		77DEF44625C7285D00D8265E /* ScrumData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumData.swift; sourceTree = "<group>"; };
+		77DEF44925C733E200D8265E /* MeetingTimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingTimerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				77769F8D25C20CA70030EB96 /* MeetingHeaderView.swift */,
 				77C9C03725C08009005A57D2 /* MeetingView.swift */,
 				77769F9825C213830030EB96 /* MeetingFooterView.swift */,
+				77DEF44925C733E200D8265E /* MeetingTimerView.swift */,
 			);
 			path = MeetingView;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				77769F8725C1DC110030EB96 /* EditView.swift in Sources */,
 				77769F9D25C216450030EB96 /* AVPlayer+Ding.swift in Sources */,
 				77DEF44725C7285D00D8265E /* ScrumData.swift in Sources */,
+				77DEF44A25C733E200D8265E /* MeetingTimerView.swift in Sources */,
 				77769F8E25C20CA70030EB96 /* MeetingHeaderView.swift in Sources */,
 				7786AD6A25C08A1C00D97F5E /* DailyScrum.swift in Sources */,
 				77769F9925C213830030EB96 /* MeetingFooterView.swift in Sources */,
